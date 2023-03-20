@@ -1,0 +1,10 @@
+{
+  "name": "blink",
+  "version": "0.0.1",
+  "description": "Before you know it, it's gone..",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
